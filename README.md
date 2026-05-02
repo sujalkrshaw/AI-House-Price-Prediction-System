@@ -159,11 +159,46 @@ npm run dev
 * 🔌 Easy integration with other systems
 
 ---
+## 📷 Project Visualizations
 
-## 📷 Screenshots
+### 🔹 Data Analysis
 
-> Add screenshots here to increase engagement 🔥
+<p align="center">
+  <img src="outputs/heatmap.png" width="45%" />
+  <img src="outputs/pairplot.png" width="45%" />
+</p>
 
+---
+
+### 🔹 Model Prediction Insights
+
+<p align="center">
+  <img src="outputs/prediction.png" width="60%" />
+</p>
+
+---
+
+### 🔹 Price Trends & Graphs
+
+<p align="center">
+  <img src="outputs/price_trend.png" width="60%" />
+</p>
+
+---
+
+### 🔹 System Architecture
+
+<p align="center">
+  <img src="outputs/structure.png" width="70%" />
+</p>
+
+---
+
+### 🔹 Frontend UI Preview
+
+<p align="center">
+  <img src="outputs/ui.png" width="70%" />
+</p>
 ```
 images/
 ├── dashboard.png
