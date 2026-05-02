@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+house-ui/node_modules/
+
+# Build
+dist/
+build/
+
+# Env
+.env
+
+# Logs
+*.log
